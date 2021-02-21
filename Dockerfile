@@ -1,1 +1,1 @@
-FROM docker.io/library/metallb/controller:v0.9.5
+FROM docker.io/metallb/controller:v0.9.5
